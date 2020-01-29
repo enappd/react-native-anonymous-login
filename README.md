@@ -1,5 +1,5 @@
 # react-native-anonymous-login
-Example repository for anonymous login in React Native using Firebase
+Example repository for [Anonymous login in React Native using Firebase](https://enappd.com/blog/anonymous-login-in-react-native-apps-with-firebase/129/)
 
 
 
